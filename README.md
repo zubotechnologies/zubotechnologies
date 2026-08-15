@@ -1,388 +1,634 @@
 <div align="center">
 
-<img src="YOUR_ZUBO_LOGO_URL" width="150" alt="ZUBO Logo"/>
+<img src="./assets/zubo-hero.svg" alt="ZUBO — Build What's Next" width="100%">
+
+<br>
 
 # ZUBO
 
 ### BUILD WHAT'S NEXT.
 
-**SOFTWARE • AI • AUTOMATION • WEB • MOBILE • CLOUD • DIGITAL**
+**SOFTWARE · AI · AUTOMATION · WEB · MOBILE · CLOUD · DIGITAL**
 
-We design, engineer, deploy, and scale digital solutions
-that help businesses turn ideas into real-world technology.
+<br>
 
-<br/>
+We design, engineer, deploy, and scale digital solutions that help businesses
+turn ideas into reliable, scalable, real-world technology.
 
-[🌐 WEBSITE](YOUR_WEBSITE_URL) &nbsp; • &nbsp;
-[💼 LINKEDIN](YOUR_LINKEDIN_URL) &nbsp; • &nbsp;
-[📸 INSTAGRAM](YOUR_INSTAGRAM_URL) &nbsp; • &nbsp;
-[💬 WHATSAPP](https://wa.me/923481226458)
+<br>
+
+<a href="#about">ABOUT</a>
+  •   <a href="#services">SERVICES</a>
+  •   <a href="#technology-ecosystem">TECHNOLOGY</a>
+  •   <a href="#selected-work">WORK</a>
+  •   <a href="#contact">CONTACT</a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## ⚡ ENGINEERING THE DIGITAL FUTURE
+`SYSTEM STATUS: ONLINE`    `ENGINEERING: ACTIVE`    `BUILD: NEXT`
 
 </div>
 
-ZUBO is a multidisciplinary software and technology company
-bringing together **engineering, design, artificial intelligence,
-automation, cloud, cybersecurity, data, and digital strategy.**
+---
 
-We work across the complete technology lifecycle — from
-**idea and strategy to design, development, deployment,
-optimization, and long-term growth.**
+## ABOUT
+
+<a name="about"></a>
+
+# ENGINEERING THE DIGITAL FUTURE
+
+**ZUBO** is a multidisciplinary software and technology company bringing together engineering, design, artificial intelligence, automation, cloud, cybersecurity, data, and digital strategy.
+
+We work across the complete technology lifecycle — from the first idea and product strategy to architecture, design, development, deployment, optimization, and long-term growth.
 
 Our goal is simple:
 
-> **Build technology that solves real problems.**
+> **Build technology that works beautifully, scales reliably, and creates measurable value.**
 
----
-
-# What We Do
-
-We don't limit ourselves to a single technology, framework,
-or development discipline.
-
-Our teams can work across the full digital ecosystem.
-
-### 💻 Software Engineering
-
-- Custom Software Development
-- Enterprise Software
-- Business Management Systems
-- ERP Systems
-- CRM Systems
-- SaaS Platforms
-- Internal Business Tools
-- Workflow Systems
-- Desktop Applications
-- API Development
-- System Architecture
-- Software Integration
-- Legacy System Modernization
-- Maintenance & Support
-
----
-
-### 🌐 Web Development
-
-- Corporate Websites
-- Business Websites
-- E-commerce Platforms
-- Web Applications
-- Progressive Web Apps
-- SaaS Applications
-- Customer Portals
-- Admin Dashboards
-- Booking Platforms
-- Marketplace Platforms
-- Content Management Systems
-- High-Performance Web Experiences
-- Headless Applications
-- Full-Stack Development
-
----
-
-### 📱 Mobile Development
-
-- Android Applications
-- iOS Applications
-- Cross-Platform Applications
-- Flutter Development
-- React Native Development
-- Mobile UI/UX
-- Mobile APIs
-- Push Notifications
-- Payment Integration
-- Location-Based Applications
-- Mobile Backend Systems
-- App Store Deployment
-
----
-
-### 🤖 Artificial Intelligence
-
-- AI Applications
-- Generative AI
-- AI Assistants
-- AI Agents
-- Large Language Model Integration
-- Natural Language Processing
-- Computer Vision
-- Recommendation Systems
-- Predictive Systems
-- AI Chatbots
-- AI Content Systems
-- AI Search
-- Retrieval-Augmented Generation
-- AI Workflow Integration
-- Custom AI Solutions
-
----
-
-### ⚙️ Automation
-
-- Business Process Automation
-- Workflow Automation
-- AI Automation
-- Lead Automation
-- Sales Automation
-- Marketing Automation
-- Customer Support Automation
-- Email Automation
-- CRM Automation
-- Data Automation
-- API Automation
-- Document Automation
-- Reporting Automation
-- n8n Workflows
-- System-to-System Automation
-
----
-
-### ☁️ Cloud & DevOps
-
-- Cloud Architecture
-- Cloud Migration
-- Application Deployment
-- CI/CD
-- Infrastructure Automation
-- Containerization
-- Docker
-- Kubernetes
-- Server Management
-- Monitoring
-- Logging
-- Performance Optimization
-- Backup Systems
-- Disaster Recovery
-- Infrastructure Scaling
-
----
-
-### 🔐 Cybersecurity
-
-- Application Security
-- API Security
-- Authentication Systems
-- Authorization
-- Identity Management
-- Secure Architecture
-- Security Auditing
-- Vulnerability Assessment
-- Data Protection
-- Secure Deployment
-- Access Control
-- Security Monitoring
-- Security Best Practices
-
----
-
-### 📊 Data & Analytics
-
-- Data Engineering
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Reporting Systems
-- ETL Pipelines
-- Data Processing
-- Data Warehousing
-- Predictive Analytics
-- Dashboard Development
-- Real-Time Analytics
-- Database Optimization
-
----
-
-### 🎨 UI/UX & Product Design
-
-- UI Design
-- UX Design
-- Product Design
-- Design Systems
-- Wireframing
-- Prototyping
-- User Research
-- Interaction Design
-- Responsive Design
-- Mobile App Design
-- Web Design
-- Dashboard Design
-- Design-to-Development
-
----
-
-### 🛒 E-Commerce
-
-- E-commerce Websites
-- Online Stores
-- Custom Commerce Platforms
-- Product Management Systems
-- Shopping Carts
-- Payment Integration
-- Order Management
-- Inventory Systems
-- Customer Management
-- Multi-Vendor Marketplaces
-- Subscription Commerce
-- E-commerce Automation
-
----
-
-### 🔗 APIs & Integrations
-
-- REST APIs
-- GraphQL
-- Webhooks
-- Third-Party Integrations
-- Payment Gateways
-- CRM Integrations
-- ERP Integrations
-- Social Media APIs
-- Communication APIs
-- Cloud APIs
-- AI APIs
-- Database Integrations
-- Custom Integrations
-
----
-
-### 📈 Digital Growth
-
-- Search Engine Optimization
-- Technical SEO
-- Local SEO
-- Content Strategy
-- Digital Marketing
-- Conversion Optimization
-- Analytics
-- Performance Optimization
-- Website Audits
-- Social Media Strategy
-- Online Presence
-- Digital Transformation
-
----
-
-# Technology Ecosystem
-
-Our technology ecosystem is not restricted to one stack.
-
-We select technologies according to the requirements,
-architecture, scalability, budget, and long-term goals of
-each project.
-
-### Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-0B1113?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0B1113?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-0B1113?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-0B1113?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/React-0B1113?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-0B1113?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Vue.js-0B1113?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Angular-0B1113?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-0B1113?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Python-0B1113?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/PHP-0B1113?style=for-the-badge&logo=php&logoColor=777BB4"/>
-<img src="https://img.shields.io/badge/Laravel-0B1113?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-<img src="https://img.shields.io/badge/Java-0B1113?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/.NET-0B1113?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/Go-0B1113?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-</p>
-
-### Mobile
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-0B1113?style=for-the-badge&logo=flutter&logoColor=54C5F8"/>
-<img src="https://img.shields.io/badge/Dart-0B1113?style=for-the-badge&logo=dart&logoColor=0175C2"/>
-<img src="https://img.shields.io/badge/React_Native-0B1113?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Kotlin-0B1113?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
-<img src="https://img.shields.io/badge/Swift-0B1113?style=for-the-badge&logo=swift&logoColor=F05138"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-0B1113?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B1113?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MongoDB-0B1113?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Redis-0B1113?style=for-the-badge&logo=redis&logoColor=DC382D"/>
-<img src="https://img.shields.io/badge/Firebase-0B1113?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/Supabase-0B1113?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-</p>
-
-### AI & Data
-
-<p>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-0B1113?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0B1113?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/TensorFlow-0B1113?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-<img src="https://img.shields.io/badge/PyTorch-0B1113?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Pandas-0B1113?style=for-the-badge&logo=pandas&logoColor=150458"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://img.shields.io/badge/AWS-0B1113?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Azure-0B1113?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Google_Cloud-0B1113?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Docker-0B1113?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0B1113?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-0B1113?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
-</p>
-
-### Automation & Integrations
-
-<p>
-<img src="https://img.shields.io/badge/n8n-0B1113?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/API-0B1113?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Webhooks-0B1113?style=for-the-badge&logo=webhooks&logoColor=FFFFFF"/>
-</p>
-
----
-
-# Our Engineering Process
+<br>
 
 <div align="center">
 
 ```text
-┌──────────┐
-│ DISCOVER │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  DEFINE  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  DESIGN  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│ ENGINEER │
-└────┬─────┘
-     ↓
-┌──────────┐
-│   TEST   │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  DEPLOY  │
-└────┬─────┘
-     ↓
-┌──────────┐
-│  SCALE   │
-└──────────┘
+┌─────────────┐
+│    IDEA     │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  STRATEGY   │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   DESIGN    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ DEVELOPMENT │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│  DEPLOYMENT │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ OPTIMIZATION│
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    GROWTH   │
+└─────────────┘
+```
+
+</div>
+
+---
+
+# WHAT WE BUILD
+
+<a name="services"></a>
+
+We don't position ourselves around a single technology.
+
+We build complete digital systems across multiple disciplines.
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SOFTWARE ENGINEERING
+
+* Custom Software
+* Enterprise Applications
+* SaaS Platforms
+* API Development
+* Backend Systems
+* System Architecture
+* Custom Software Solutions
+
+</td>
+<td width="50%" valign="top">
+
+### WEB TECHNOLOGY
+
+* Websites
+* Web Applications
+* E-commerce
+* CMS Platforms
+* Progressive Web Apps
+* Business Portals
+* Enterprise Web Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### MOBILE ENGINEERING
+
+* Android Applications
+* iOS Applications
+* Flutter Applications
+* React Native
+* Cross-platform Products
+* Mobile APIs
+* Mobile Backend Systems
+
+</td>
+<td width="50%" valign="top">
+
+### AI & AUTOMATION
+
+* AI Applications
+* Machine Learning
+* Generative AI
+* AI Agents
+* Business Automation
+* Workflow Automation
+* RAG Systems
+* Intelligent Platforms
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### CLOUD & INFRASTRUCTURE
+
+* Cloud Architecture
+* DevOps
+* CI/CD
+* Docker
+* Kubernetes
+* Server Infrastructure
+* Monitoring
+* Deployment Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### DATA & SECURITY
+
+* Data Engineering
+* Data Analytics
+* Database Engineering
+* Cybersecurity
+* Authentication
+* Security Architecture
+* Data Systems
+* Application Security
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### DESIGN & DIGITAL
+
+* UI/UX Design
+* Product Design
+* Branding
+* Digital Strategy
+* SEO
+* Digital Marketing
+* Digital Transformation
+
+</td>
+<td width="50%" valign="top">
+
+### ENTERPRISE SOLUTIONS
+
+* Business Systems
+* Digital Transformation
+* Enterprise Software
+* Process Automation
+* Custom Platforms
+* Technology Consulting
+* IT Consulting
+
+</td>
+</tr>
+</table>
+
+---
+
+# TECHNOLOGY ECOSYSTEM
+
+<a name="technology-ecosystem"></a>
+
+Our technology ecosystem spans software engineering, AI, cloud infrastructure, data, design, and digital products.
+
+<br>
+
+### LANGUAGES
+
+`JavaScript` `TypeScript` `Python` `PHP` `Java` `C#` `C++`
+`Go` `Rust` `Dart` `Kotlin` `Swift` `Ruby` `SQL`
+
+### FRONTEND
+
+`React` `Next.js` `Vue` `Angular` `HTML` `CSS` `Tailwind`
+
+### BACKEND
+
+`Node.js` `Express` `Laravel` `Django` `FastAPI` `Spring` `.NET`
+
+### MOBILE
+
+`Flutter` `React Native` `Android` `iOS`
+
+### AI / MACHINE LEARNING
+
+`OpenAI` `LLMs` `TensorFlow` `PyTorch`
+`Computer Vision` `NLP` `RAG` `AI Agents`
+
+### DATABASE
+
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Firebase` `Supabase`
+
+### CLOUD / DEVOPS
+
+`AWS` `Azure` `Google Cloud` `Docker` `Kubernetes`
+`GitHub Actions` `Linux` `Nginx`
+
+### DESIGN
+
+`Figma` `Adobe Creative Cloud` `Blender` `Framer`
+
+### ENGINEERING TOOLS
+
+`Git` `GitHub` `Postman` `VS Code` `Jira` `Notion`
+
+---
+
+# HOW WE BUILD
+
+<a name="process"></a>
+
+Technology is only valuable when the process behind it is engineered correctly.
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="14%">
+
+### 01
+
+**DISCOVER**
+
+Understand the business, users, challenges, and requirements.
+
+</td>
+<td align="center" width="14%">
+
+### 02
+
+**STRATEGIZE**
+
+Define architecture, technology, priorities, and roadmap.
+
+</td>
+<td align="center" width="14%">
+
+### 03
+
+**DESIGN**
+
+Create intuitive experiences and scalable product systems.
+
+</td>
+<td align="center" width="14%">
+
+### 04
+
+**ENGINEER**
+
+Build reliable, maintainable, and scalable technology.
+
+</td>
+<td align="center" width="14%">
+
+### 05
+
+**TEST**
+
+Validate quality, security, performance, and reliability.
+
+</td>
+<td align="center" width="14%">
+
+### 06
+
+**DEPLOY**
+
+Launch production-ready systems and infrastructure.
+
+</td>
+<td align="center" width="14%">
+
+### 07
+
+**OPTIMIZE**
+
+Monitor, improve, scale, and continuously evolve.
+
+</td>
+</tr>
+</table>
+
+---
+
+# SELECTED WORK
+
+<a name="selected-work"></a>
+
+> **Note:** Replace the projects below with confirmed ZUBO projects. No fictional clients, statistics, or outcomes are presented as real.
+
+<br>
+
+### ZUBO AI Lead Generator
+
+`AI` `AUTOMATION` `SAAS`
+
+An intelligent lead-generation and outreach automation system designed to streamline prospect research, personalization, and follow-up.
+
+**Technology:** AI · Automation · SaaS
+
+---
+
+### PROJECT 02
+
+`SOFTWARE` `WEB` `CLOUD`
+
+**Project description**
+
+Add a concise description of the project, the technology behind it, and the problem it solves.
+
+**Technology:** Replace with actual technology stack.
+
+---
+
+### PROJECT 03
+
+`MOBILE` `AI` `PRODUCT`
+
+**Project description**
+
+Add a concise description of the product, its core functionality, and the value it provides.
+
+**Technology:** Replace with actual technology stack.
+
+---
+
+### PROJECT 04
+
+`ENTERPRISE` `AUTOMATION` `API`
+
+**Project description**
+
+Add a concise description of the system, architecture, and business outcome.
+
+**Technology:** Replace with actual technology stack.
+
+---
+
+# ENGINEERING PRINCIPLES
+
+We believe good technology is engineered deliberately.
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### SCALE
+
+**Scalable by Design**
+
+Architecture should support growth instead of becoming a limitation.
+
+</td>
+<td width="25%" align="center">
+
+### SECURITY
+
+**Security First**
+
+Security is considered throughout the product lifecycle.
+
+</td>
+<td width="25%" align="center">
+
+### SPEED
+
+**Performance Driven**
+
+Fast, efficient systems create better experiences.
+
+</td>
+<td width="25%" align="center">
+
+### PEOPLE
+
+**User Centric**
+
+Technology should solve real problems for real people.
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" align="center">
+
+### AUTOMATION
+
+**Automation First**
+
+Repetitive processes should become intelligent systems.
+
+</td>
+<td width="25%" align="center">
+
+### ARCHITECTURE
+
+**Clean Architecture**
+
+Well-structured systems are easier to evolve.
+
+</td>
+<td width="25%" align="center">
+
+### QUALITY
+
+**Maintainable Code**
+
+Code should remain understandable long after it is written.
+
+</td>
+<td width="25%" align="center">
+
+### EVOLUTION
+
+**Continuous Improvement**
+
+Every product should have room to become better.
+
+</td>
+</tr>
+</table>
+
+---
+
+# GITHUB / ENGINEERING ACTIVITY
+
+<a name="activity"></a>
+
+<div align="center">
+
+<!-- Replace the image URLs below with your preferred GitHub-compatible statistics services. -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=05070B&title_color=00D9FF&icon_color=0066FF&text_color=F5F7FA" alt="ZUBO GitHub Statistics">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=05070B&title_color=00D9FF&text_color=F5F7FA" alt="ZUBO Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=05070B&ring=00D9FF&fire=0066FF&currStreakLabel=F5F7FA" alt="ZUBO GitHub Streak">
+
+</div>
+
+---
+
+# TECHNOLOGY MINDSET
+
+```text
+                    ┌──────────────────┐
+                    │     ZUBO         │
+                    │  TECHNOLOGY      │
+                    └────────┬─────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+      SOFTWARE              AI             AUTOMATION
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                             ▼
+                      DIGITAL PRODUCTS
+                             │
+                             ▼
+                     BUSINESS OUTCOMES
+```
+
+We don't build technology for technology's sake.
+
+We combine engineering, design, intelligence, and automation to create digital products that solve meaningful problems.
+
+---
+
+# HAVE AN IDEA?
+
+<a name="contact"></a>
+
+<div align="center">
+
+## BUILD IT WITH ZUBO.
+
+**Let's turn your idea into a reliable, scalable digital product.**
+
+<br>
+
+<a href="YOUR_PROJECT_LINK">
+
+**START A PROJECT**
+
+</a>
+
+   
+
+<a href="YOUR_WEBSITE_URL">
+
+**WEBSITE**
+
+</a>
+
+   
+
+<a href="YOUR_LINKEDIN_URL">
+
+**LINKEDIN**
+
+</a>
+
+   
+
+<a href="YOUR_INSTAGRAM_URL">
+
+**INSTAGRAM**
+
+</a>
+
+   
+
+<a href="YOUR_WHATSAPP_URL">
+
+**WHATSAPP**
+
+</a>
+
+   
+
+<a href="mailto:YOUR_EMAIL@example.com">
+
+**EMAIL**
+
+</a>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="./assets/zubo-footer.svg" alt="ZUBO">
+
+<br><br>
+
+# ZUBO
+
+### BUILD WHAT'S NEXT.
+
+`SOFTWARE` · `AI` · `AUTOMATION` · `WEB` · `MOBILE` · `CLOUD` · `DIGITAL`
+
+<br>
+
+© ZUBO. All rights reserved.
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>
+
+ENGINEERED FOR WHAT'S NEXT.
+
+</sub>
+
+</div>
