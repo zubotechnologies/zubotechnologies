@@ -1,0 +1,84 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070B"/>
+      <stop offset="100%" stop-color="#080B14"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0066FF"/>
+      <stop offset="55%" stop-color="#147BFF"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#0066FF" stop-opacity="0.28"/>
+      <stop offset="45%" stop-color="#00D9FF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00D9FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0F1622" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#bgGrad)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <rect x="0" y="0" width="1200" height="380" fill="none" stroke="#12324D" stroke-width="1"/>
+  <line x1="40" y1="40" x2="120" y2="40" stroke="#147BFF" stroke-width="1" opacity="0.6"/>
+  <line x1="40" y1="40" x2="40" y2="120" stroke="#147BFF" stroke-width="1" opacity="0.6"/>
+  <line x1="1160" y1="340" x2="1080" y2="340" stroke="#147BFF" stroke-width="1" opacity="0.6"/>
+  <line x1="1160" y1="340" x2="1160" y2="260" stroke="#147BFF" stroke-width="1" opacity="0.6"/>
+
+  <!-- scanning line -->
+  <rect x="-400" y="0" width="400" height="2" fill="url(#lineGrad)">
+    <animate attributeName="x" from="-400" to="1200" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- status indicators -->
+  <g font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#C7CED8">
+    <circle cx="56" cy="60" r="3" fill="#00D9FF">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="66" y="64">SYSTEM ONLINE</text>
+
+    <text x="1030" y="316" text-anchor="end" fill="#5B6B82">BUILD_ID · ZB-CORE</text>
+  </g>
+
+  <!-- ZUBO wordmark -->
+  <text x="600" y="200" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="96" font-weight="800" letter-spacing="14" fill="url(#textGrad)" filter="url(#softGlow)">
+    ZUBO
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- tagline reveal -->
+  <text x="600" y="240" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="15" letter-spacing="6" fill="#C7CED8">
+    BUILD WHAT'S NEXT.
+    <animate attributeName="opacity" values="0;1;1" keyTimes="0;0.5;1" dur="3s" begin="0.3s" fill="freeze"/>
+  </text>
+
+  <text x="600" y="270" text-anchor="middle" font-family="'Courier New', monospace"
+        font-size="11" letter-spacing="3" fill="#5B6B82">
+    SOFTWARE · AI · AUTOMATION · WEB · MOBILE · CLOUD · DIGITAL
+  </text>
+
+  <line x1="450" y1="290" x2="750" y2="290" stroke="#147BFF" stroke-width="1" opacity="0.5"/>
+</svg>
